@@ -1,0 +1,90 @@
+.nav{
+    display: flex;
+    background-image:linear-gradient(to right,black, rgb(52, 2, 99), darkblue,black);
+}
+
+#n{
+    color:rgb(255, 255, 255);
+    font-size:27px;
+    font-style: italic;
+}
+nav a{
+    padding:20px;
+
+}
+nav a:hover{
+    text-decoration: underline;
+}
+nav a:visited{
+    text-decoration: underline;
+}
+#nav img{
+    margin-left:0px; 
+    padding:20px;
+}
+nav{
+    padding: 43px;
+}
+nav button{
+    height: 41px;
+    width:100px;
+    font-style: italic;
+    font-weight: 550;
+}
+#b button:hover{
+    background-image: none;
+    background-color: aliceblue;
+    color:black;
+}
+#b{
+    padding: 20px;
+}
+#n select{
+    height: 39px;
+    width:100px;
+    font-style: italic;
+    font-weight: 550;
+    background-color:transparent;
+    color: white;
+    border:0px;
+}
+#b2{
+    background-image:linear-gradient(to right, black,rgb(52, 2, 99), darkblue,black);
+    color: white;
+}
+#b1{
+    background-image:linear-gradient(to right,black, rgb(52, 2, 99), darkblue,black);
+    color:white;
+}
+body{
+    background-color: black;
+}
+#t1{
+    color: white;
+    font-size: 20px;;
+    text-align: center;
+    margin-top: 80px;
+}
+#b3 button{
+    text-align: center;
+    height: 50px;
+    width: 150px;
+}
+#b3 button:hover{
+    height: 55px;
+    width: 160px;
+    background-color:darkslateblue;
+}
+#b3{
+    margin-left: 632px;
+}
+#img{
+    display: flex;
+}
+#ain{
+    display:flex;
+    color: white;
+}
+select option{
+    background-color:transparent;
+}
